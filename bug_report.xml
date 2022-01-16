@@ -1,0 +1,16 @@
+<root>
+  <ID>123</ID>
+  <Priority>Low</Priority>
+  <Severity>Minor</Severity>
+  <Summary>Закрывается окно редактирования при попытке изменения названия черновика на уже существующий</Summary>
+  <Author>Irina Mikhailovskaya</Author>
+  <Environment>Firefox 79.0 (64 бит), Google Chrome 84.0.4147.105 (64 бит)</Environment>
+  <Description>
+    <STR>1) Зайти в Материалы и отсортировать по статусу материала Черновик. 2)Выбрать ранее созданный черновик и нажать Редактировать. 3)В окне редактирования изменить название материала на уже существующее. 4)Нажать Редактировать материал</STR>
+    <Actual_Result>Появляется сообщение об ошибке, окно редактирования закрывается</Actual_Result>
+    <Expectd_Result>Появляется сообщение об ошибке, окно редактирования остается открытым</Expectd_Result>
+  </Description>
+  <Reproducibility>Always</Reproducibility>
+  <Attachment>001.mp4</Attachment>
+  <Assigned_To>Vadim Ksendzov</Assigned_To>
+</root>
