@@ -1,0 +1,42 @@
+<root>
+  <studentName>Irina Mikhailovskaya</studentName>
+  <courseName>Author&#x27;s course by Vadim Ksendzov</courseName>
+  <skills>basic theory</skills>
+  <skills>client-server architecture</skills>
+  <skills>methods of request to the server</skills>
+  <skills>server responses</skills>
+  <skills>structures of requests and responses</skills>
+  <skills>JSON and XML: structure</skills>
+  <skills>testing API</skills>
+  <skills>Removal and reading of logs</skills>
+  <skills>Postman</skills>
+  <skills>Fidler</skills>
+  <skills>VPN</skills>
+  <skills>
+    <Dev_Tools_of_web_Browsers>Google Chrome</Dev_Tools_of_web_Browsers>
+    <Dev_Tools_of_web_Browsers>FireFox</Dev_Tools_of_web_Browsers>
+  </skills>
+  <skills>mobile testing</skills>
+  <skills>feature of iOS, Android, guidelines</skills>
+  <skills>building iOS applications on Xcode</skills>
+  <skills>building Android applications on Android Studio</skills>
+  <skills>Interception of mobile traffic (sniffing) through Charles</skills>
+  <skills>Proxy settings for iOS and Android</skills>
+  <skills>Command line (terminal) Linux Ubuntu</skills>
+  <skills>Simple bash scripting, automation of routine tasks on the server</skills>
+  <skills>Access to remote servers</skills>
+  <skills>
+    <SQL_Basics>Create</SQL_Basics>
+    <SQL_Basics>Delete</SQL_Basics>
+    <SQL_Basics>Drop</SQL_Basics>
+    <SQL_Basics>Insert Into</SQL_Basics>
+    <SQL_Basics>Select</SQL_Basics>
+    <SQL_Basics>From</SQL_Basics>
+    <SQL_Basics>Where</SQL_Basics>
+    <SQL_Basics>Join</SQL_Basics>
+  </skills>
+  <skills>Git</skills>
+  <skills>Jmeter</skills>
+  <skills>Scrum development methodology</skills>
+  <skills>Python. Creation of your own client-server application</skills>
+</root>
